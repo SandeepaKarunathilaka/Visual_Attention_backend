@@ -2,10 +2,10 @@ fastapi
 uvicorn
 python-multipart
 pydantic
-numpy==1.23.5
+numpy==2.4.1
 pandas==1.5.3
-scikit-learn==1.2.2
-joblib==1.2.0
+scikit-learn==1.7.2
+joblib==1.5.3
 opencv-python-headless==4.7.0.72
 firebase-admin
 reportlab
