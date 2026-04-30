@@ -2,7 +2,7 @@ fastapi
 uvicorn
 python-multipart
 pydantic
-numpy==2.4.1
+numpy==1.26.4
 pandas==1.5.3
 scikit-learn==1.7.2
 joblib==1.5.3
